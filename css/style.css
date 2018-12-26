@@ -1,0 +1,52 @@
+.main{
+	height: 400px;
+	width: 30%;
+	border: 2px solid green;
+	margin-left: 35%;
+	margin-top: 5%;	
+}
+.input_text
+{
+	width: 100%;
+	height: 15%;
+	margin-top: 2%;
+	
+}
+#inputText{
+	margin-top: 10px;
+	margin-left: 17px;
+	height: 70%;
+	width: 90%;
+	text-align: right;
+	font-size: 20px;
+	border: 0px;
+	border-radius: 5px;
+	
+}
+.row{
+	width: 100%;
+	height: 15%;
+ 
+}
+.btn{
+	height: 60%;
+	width:19%;
+	margin-top: 10px;
+	margin-left: 16px;
+	font-size: 20px;
+	border: 0px;
+	border-radius: 5px;
+	
+
+}
+.btn:hover{
+		border-bottom: green solid 2px;
+		color: green; 
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
